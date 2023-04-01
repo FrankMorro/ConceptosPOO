@@ -1,4 +1,6 @@
-﻿namespace ConceptosPOO;
+﻿using ConceptosOOP.Logic;
+
+namespace ConceptosPOO;
 
 public abstract class Employee : IPay
 {
