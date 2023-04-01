@@ -18,7 +18,5 @@
                 $"\n\tSales................: {$"{Sales:C2}",15}" +
                 $"\n\tValue to pay.........: {$"{GetValueToPay():C2}",15}";
         }
-
-
     }
 }
